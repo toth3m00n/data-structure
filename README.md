@@ -5,27 +5,27 @@
 
 ---
 
-+ #### [ Binary Tree (бинарное дерево поиска)](https://github.com/toth3m00n/data-structure/main/BinaryTree.cpp)
++ #### [ Binary Tree (бинарное дерево поиска)](https://github.com/toth3m00n/data-structure/blob/main/BinaryTree.cpp)) 
 
 Simple Realization BST - Binary Search Tree
 
 --- 
 
-+ #### [Heap](https://github.com/toth3m00n/data-structure/main/Heap.cpp)
++ #### [Heap](https://github.com/toth3m00n/data-structure/blob/main/Heap.cpp)
   
-+ #### [Queue](https://github.com/toth3m00n/data-structure/main/Queue.cpp)
++ #### [Queue](https://github.com/toth3m00n/data-structure/blob/main/Queue.cpp)
   
-+ #### [Stack](https://github.com/toth3m00n/data-structure/main/Stack.cpp)
++ #### [Stack](https://github.com/toth3m00n/data-structure/blob/main/Stack.cpp)
   
-+ #### [Vector](https://github.com/toth3m00n/data-structure/main/Vector.cpp)
++ #### [Vector](https://github.com/toth3m00n/data-structure/blob/main/Vector.cpp)
   
-+ #### [One linked list](https://github.com/toth3m00n/data-structure/main/OneLinkedList.cpp) + [One linked list](https://github.com/toth3m00n/data-structure/main/linked_list.py) (Python)
++ #### [One linked list](https://github.com/toth3m00n/data-structure/blob/main/OneLinkedList.cpp) + [One linked list](https://github.com/toth3m00n/data-structure/main/linked_list.py) (Python)
   
 I've done it to figure out how the structure works from the inside
 
 ---
 
-+ #### [LRU-cache](https://github.com/toth3m00n/data-structure/main/lru.py) (Python)
++ #### [LRU-cache](https://github.com/toth3m00n/data-structure/blob/main/lru.py) (Python)
 
 Simple realization using One linked list, mentioned earlier
 
@@ -33,17 +33,17 @@ Simple realization using One linked list, mentioned earlier
 
 ---
 
-+ #### [Suffix Tree (Ukkonen's algorithm)](https://github.com/toth3m00n/data-structure/main/suffix_tree.cpp)
++ #### [Suffix Tree (Ukkonen's algorithm)](https://github.com/toth3m00n/data-structure/blob/main/suffix_tree.cpp)
   
 Complex data structure for search entry in text. Tree build based on text. You can read more about it [here](https://www.geeksforgeeks.org/pattern-searching-using-suffix-tree/)
 
 ---
 
-+ #### [Red black tree](https://github.com/toth3m00n/data-structure/main/RBTFix.cpp)
++ #### [Red black tree](https://github.com/toth3m00n/data-structure/blob/main/RBTFix.cpp)
 
 Balanced BST. It wrote for string value, so you can modified for you needs
 
-+ #### [Persistent red back tree](https://github.com/toth3m00n/data-structure/main/RBTFix.cpp)
++ #### [Persistent red back tree](https://github.com/toth3m00n/data-structure/blob/main/RBTFix.cpp)
 
 Data structure that let you store versions of yours Red black tree. Here i implement only part persistent. 
 
