@@ -20,7 +20,7 @@ Simple Realization BST - Binary Search Tree
   
 + #### [Vector](https://github.com/toth3m00n/data-structure/blob/main/Vector.cpp)
   
-+ #### [One linked list](https://github.com/toth3m00n/data-structure/blob/main/OneLinkedList.cpp) + [One linked list](https://github.com/toth3m00n/data-structure/main/linked_list.py) (Python)
++ #### [One linked list](https://github.com/toth3m00n/data-structure/blob/main/OneLinkedList.cpp) + [One linked list](https://github.com/toth3m00n/data-structure/blob/main/linked_list.py)(Python)
   
 I've done it to figure out how the structure works from the inside.
 
