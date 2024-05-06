@@ -1,5 +1,6 @@
 # Data stucture from course Discrete analysis and my curiosity
 
+
 ## I've collected all data stucture, that i wrote.
 ### *PS: On default i wrote in C++. Another case i note in round brackets*
 
