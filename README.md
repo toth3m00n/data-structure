@@ -6,7 +6,7 @@
 
 ---
 
-+ #### [ Binary Tree (бинарное дерево поиска)](https://github.com/toth3m00n/data-structure/blob/main/BinaryTree.cpp)
++ #### [ Binary Tree (search)](https://github.com/toth3m00n/data-structure/blob/main/BinaryTree.cpp)
 
 Simple Realization BST - Binary Search Tree
 
