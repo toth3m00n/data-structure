@@ -3,7 +3,7 @@
 #include <fstream>
 #include <chrono>
 
-
+// нода
 struct rbnode {
     char color;
     rbnode* left;
