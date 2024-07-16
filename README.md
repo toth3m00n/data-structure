@@ -46,7 +46,7 @@ Complex data structure for search entry in text. Tree build based on text. You c
 
 Balanced BST. It wrote for string value, so you can modified for you needs
 
-+ #### [Persistent red back tree](https://github.com/toth3m00n/data-structure/blob/main/RBTFix.cpp)
++ #### [Persistent red back tree](https://github.com/toth3m00n/data-structure/blob/main/persistentRBT.cpp)
 
 Data structure that let you store versions of yours Red black tree. Here i implement only part persistent. 
 
